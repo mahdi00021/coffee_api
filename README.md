@@ -1,4 +1,4 @@
-# coffe-api
+# coffee - api
 Rest Api for coffee using laravel framework with repository pattern
 
 # Libraries
